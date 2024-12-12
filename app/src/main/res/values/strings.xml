@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Matveev1</string>
+    <string name="parameter_message">Переданный параметр: %1$s</string>
+
+    <string name="button_text">Перейти к Activity 2</string>
+</resources>
